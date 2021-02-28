@@ -37,6 +37,8 @@ public class Practice13GetTextBoundsView extends View {
         paint1.setStrokeWidth(20);
         paint1.setColor(Color.parseColor("#E91E63"));
         paint2.setTextSize(160);
+
+
     }
 
     @Override
